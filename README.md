@@ -1,0 +1,2 @@
+# amberjack
+Amberjack JavaScript library
